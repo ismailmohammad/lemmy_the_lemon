@@ -20,3 +20,6 @@ Also, please make sure you have all important files saved and backed up.
 ie. CHMA10, MGEA02, etc.
 ~ Added support for accessing Creative Commons the_lemon.PNG locally
 ~ Removed debugging code leftover from v 0.0.1
+
+# CHANGELOG (v 0.0.1):
+~ Initial lemmy_the_lemon release. Buggy release
