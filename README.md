@@ -15,6 +15,10 @@ the documentation of the program as I am not liable for any risks/damages
 that may incur due to direct and/or indirect usage of this program.
 Also, please make sure you have all important files saved and backed up.
 
+# *** ~ Stay Tuned for v0.0.3 release ~ ***
+~ Automation of Coursechecking
+~ Implementation of the coded webscraping.py
+
 # CHANGELOG (v 0.0.3 beta):
 ~ Added Icon to Exe
 ~ Added Icon resource to build directory
